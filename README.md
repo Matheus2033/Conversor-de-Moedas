@@ -49,14 +49,7 @@ O resultado aparece automaticamente na tela
 🔧 Como executar:
 Baixe ou clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Matheus2033/Conversor-de-Moedas
 
 Abra o arquivo index.html no navegador
 E pronto! Seu conversor já vai funcionar.
-
-
-
-
-✔ preview com GIF animado
-
-Só pedir!
